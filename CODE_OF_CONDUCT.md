@@ -1,20 +1,27 @@
 # Code of Conduct
 
 ## Our Pledge
-We pledge to create a welcoming and respectful environment for everyone.
+We pledge to create a welcoming, inclusive, and respectful environment for everyone.
 
 ## Our Standards
 - Be respectful and inclusive
 - Accept constructive feedback
 - Focus on collaboration
+- Show empathy towards others
 
-## Unacceptable Behavior
-- Harassment or discrimination
-- Offensive comments
-- Personal attacks
+## Scope
+This Code of Conduct applies within all project spaces and in public spaces when representing the project.
 
 ## Enforcement
-Violations will be reviewed and appropriate action will be taken.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project maintainers.
 
-## Contact
-For issues, please contact the repository maintainer.
+## Enforcement Responsibilities
+Project maintainers are responsible for clarifying and enforcing our standards of acceptable behavior.
+
+## Enforcement Guidelines
+Maintainers will follow these guidelines in determining consequences:
+- Warning for minor violations
+- Temporary or permanent ban for severe violations
+
+## Attribution
+This Code of Conduct is adapted from the Contributor Covenant, version 2.0.
