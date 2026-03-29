@@ -2,6 +2,9 @@
 
 Thank you for your interest in contributing!
 
+## Contributions Welcome
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
 ## How to Contribute
 1. Fork the repository
 2. Create a new branch
